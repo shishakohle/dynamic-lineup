@@ -11,7 +11,8 @@ public class Jersey
 		this.size = size;
 	}
 
-	public String getNumber() {
+	public String getNumber()
+	{
 		return number;
 	}
 
