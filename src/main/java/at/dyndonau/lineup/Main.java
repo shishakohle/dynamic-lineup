@@ -1,4 +1,4 @@
-package at.institution.projectname;
+package at.dyndonau.lineup;
 
 import org.apache.log4j.PropertyConfigurator;
 

@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>groupid</groupId>
-	<artifactId>artifactid</artifactId>
+	<groupId>at.dyndonau</groupId>
+	<artifactId>lineup</artifactId>
 	<version>1</version>
-	<name>projectname</name>
-	<description>projectdescription</description>
-	<url>https://github.com/shishakohle/maven-java-template</url>
+	<name>Dynamic Lineup</name>
+	<description>A tool that suggests jersey numbers for your team lineup.</description>
+	<url>https://github.com/shishakohle/dynamic-lineup</url>
 
 	<dependencies>
 
