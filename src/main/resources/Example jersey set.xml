@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Created by Dynamic Lineup -->
+
+<jerseyset name="Example jersey set">
+	<jersey>
+		<number>7</number>
+		<size>M</size>
+	</jersey>
+	<jersey>
+		<number>11</number>
+		<size>L</size>
+	</jersey>
+	<jersey>
+		<number>8</number>
+		<size>M</size>
+	</jersey>
+</jerseyset>

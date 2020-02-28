@@ -10,6 +10,8 @@ public class Main
 		String log4jConfPath = "./src/main/resources/log4j.properties";
 		PropertyConfigurator.configure(log4jConfPath);
 		
-		System.out.println( "Hello World!" );
+		JerseysetCreator mySetCreator = new JerseysetCreator();
+		mySetCreator.getJerseysetFromUser();
+		mySetCreator.saveJerseysetToFile();
 	}
 }
